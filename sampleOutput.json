@@ -1,366 +1,305 @@
-{
-  "status": "ok",
-  "totalResults": 20,
-  "articles": [
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    },
-    {
-      "source": {
-        "id": "waleedproduct1",
-        "name": "iphone x"
-      },
-      "company": "Apple",
-      "price": "5000",
-      "color": [
-        "#ff0000",
-        "000000",
-        "CDD0D0"
-      ],
-      "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-      "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-      "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-      "category": "mobile",
-      "featured": true
-    }
-  ]
-}
+[
+  {
+    "id": "waleedproduct1",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile",
+    "featured": true
+  },
+  {
+    "id": "waleedproduct2",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile",
+    "featured": true
+  },
+  {
+    "id": "waleedproduct3",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile",
+    "featured": true
+  },
+  {
+    "id": "waleedproduct4",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile"
+  },
+  {
+    "id": "waleedproduct4",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile"
+  },
+  {
+    "id": "waleedproduct4",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile"
+  },
+  {
+    "id": "waleedproduct4",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile"
+  },
+  {
+    "id": "waleedproduct4",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile"
+  },
+  {
+    "id": "waleedproduct4",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile"
+  },
+  {
+    "id": "waleedproduct4",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile"
+  },
+  {
+    "id": "waleedproduct4",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile"
+  },
+  {
+    "id": "waleedproduct4",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile"
+  },
+  {
+    "id": "waleedproduct4",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile"
+  },
+  {
+    "id": "waleedproduct4",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile"
+  },
+  {
+    "id": "waleedproduct4",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile"
+  },
+  {
+    "id": "waleedproduct4",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile"
+  },
+  {
+    "id": "waleedproduct4",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile"
+  },
+  {
+    "id": "waleedproduct4",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile"
+  },
+  {
+    "id": "waleedproduct4",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile"
+  },
+  {
+    "id": "waleedproduct4",
+    "name": "iphone x",
+    "company": "Apple",
+    "price": "5000",
+    "color": [
+      "#ff0000",
+      "000000",
+      "CDD0D0"
+    ],
+    "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
+    "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
+    "image": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
+    "category": "mobile"
+  }
+]
